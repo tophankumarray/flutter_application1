@@ -152,9 +152,10 @@ class Datum {
         "sc_code": scCode,
         "sincelisting_per": sincelistingPer,
         "tottime": tottime,
-        "volume": volume, //! new volume added (office)
+        "volume": volume, //! new volume added (office) // home push
     };
 }
 
 
-//? new    model page addeed (office_)
+//? new    model page addeed (office_) pull
+//! home push
